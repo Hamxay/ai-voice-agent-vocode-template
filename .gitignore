@@ -145,9 +145,11 @@ config.json
 .idea/
 
 # Visual Studio Code
-.vscode/
 *.code-workspace
 
 # Others
 .DS_Store
 Thumbs.db
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
